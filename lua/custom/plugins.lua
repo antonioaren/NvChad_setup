@@ -66,6 +66,11 @@ local plugins = {
     "prettier/vim-prettier",
     lazy = false,
     enabled = true
+  },
+  {
+    "tpope/vim-fugitive",
+    lazy = false,
+    enabled = true
   }
 
   -- To make a plugin not be loaded
